@@ -6,5 +6,5 @@
 The car driving system of this library runs entirely based on blueprints. Due to the particularity of being written by one person, the ability to fix bugs cannot be guaranteed. This system is compatible with: UE4.26.2 |<br>
 The original intention is to completely replace the native car driving system of UE4, so the step of binding bones is omitted and only static meshes are needed. At the same time, the feel is biased towards Forza Horizon/Need For Speed|<br>
 You only need to download and unzip the system. The downloaded project is a clean project and can be directly put into development. If there are bugs, I hope you can correct them and submit them qwq<br>
-(>^ω^<)Nope~<br>
+(>^ω^<)<br>
 <img src="https://github.com/HaibaraAi07/UE4-ComponentsVehicleSystem/blob/main/Prompt_picture/Class.png" width=1000>
